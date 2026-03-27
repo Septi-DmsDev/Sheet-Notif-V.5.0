@@ -1,0 +1,126 @@
+{
+  "rembu": {
+    "bot_token": "8564614529:AAHkNkXT5PJ3McKCjrpBazY174rqQmVlDiI",
+    "chat_id": "-1003756930613",
+    "spreadsheet_name": "SGR UTAMA REMBU NEW",
+    "check_interval": 30,
+    "emojis": {
+      "zero": "🚫",
+      "danger": "🔴",
+      "emergency": "🟡",
+      "safe": "🟢",
+      "over": "🔵"
+    },
+    "categories": {
+      "ALL": ["B8:D37", "F8:H13", "J8:L11", "N8:P11", "R8:T8"],
+      "PAPERBAG": ["B8:D37"],
+      "BRIDESMAID BBR": ["F8:H13"],
+      "GBC": ["J8:L11"],
+      "PBM": ["N8:P11"],
+      "SOUVENIR": ["R8:T8"]
+    }
+  },
+  "semampir": {
+    "bot_token": "8301381220:AAEEaHNh68RgwC-R_vNIl9X7JuMEw2l146M",
+    "chat_id": "-1003756930613",
+    "spreadsheet_name": "SGR UTAMA SEMAMPIR 2026",
+    "check_interval": 40,
+    "emojis": {
+      "zero": "❌",
+      "danger": "📕",
+      "emergency": "📙",
+      "safe": "📗",
+      "over": "📘"
+    },
+    "categories": {
+      "ALL": [
+        "A8:C32", "E8:G53", "I8:K24", "M8:O21", "Q8:S12", "U8:W13", "Y8:AA52", "AC8:AE34", "AG8:AI22", "AK8:AM93",
+        "AO8:AQ23", "AS8:AU28", "AW8:AY43", "BA8:BC18", "BF8:BH51", "BJ8:BL20", "BN8:BP75", "BR8:BT18", "BV8:BX36", "BZ8:CB15",
+        "CE8:CG16", "CI8:CK23", "CM8:CO13", "CQ8:CS17"
+      ],
+      "ADD ON": ["A8:C32"],
+      "KUT BLANGKO": ["E8:G53"],
+      "PLASTIK OPP X 22": ["I8:K24"],
+      "PLASTIK OPP X 20": ["M8:O21"],
+      "PLASTIK POLYMAILER DAN STANDING PAUCH": ["Q8:S12"],
+      "PLASTIK ZIPLOCK": ["U8:W13"],
+      "PLASTIK HD PLONG": ["Y8:AA52"],
+      "NOTA,TC DAN NCR": ["AC8:AE34"],
+      "STIKER OLSHOP": ["AG8:AI22"],
+      "STIKER OTOMOTIF": ["AK8:AM93"],
+      "STIKER KEMERDEKAAN": ["AO8:AQ23"],
+      "KERTAS": ["AS8:AU28"],
+      "CONSUMABLE GUDANG & FINISHING": ["AW8:AY43"],
+      "PITA SATIN": ["BA8:BC18"],
+      "CONSUMABLE PRINTING": ["BF8:BH51"],
+      "STIKER BRAND, CASE, ANIME": ["BJ8:BL20"],
+      "STM": ["BN8:BP75"],
+      "BONEKA": ["BV8:BX36"],
+      "BTR": ["BZ8:CB15"],
+      "B. OLSHOP": ["CE8:CG16"],
+      "B.EDUKASI": ["CI8:CK23"],
+      "BBR": ["CM8:CO13"],
+      "POSTER": ["CQ8:CS17"]
+    }
+  },
+  "teknos": {
+    "bot_token": "8220544772:AAHFvIz13Go9k-DXgoOEuduG9WwwERlulAY",
+    "chat_id": "-1003756930613",
+    "spreadsheet_name": "SGR TEKNOS IDN (STOK GUDANG REALTIME) 2025",
+    "check_interval": 30,
+    "emojis": {
+      "zero": "⛔",
+      "danger": "🟥",
+      "emergency": "🟨",
+      "safe": "🟩",
+      "over": "🟦"
+    },
+    "categories": {
+      "ALL": [
+        "A7:C22", "E7:G38", "I7:K18", "M7:O23", "Q7:S17", "U7:W14", "Y7:AA17", "AC7:AE12", "AG7:AI25", "AK7:AM31", "AO7:AQ21",
+        "AS7:AU22", "AW7:AY30", "BA7:BC32", "BE7:BG30", "BI7:BK12", "BM7:BO15", "BQ7:BS14", "BU7:BW19", "BY7:CA22", "CG7:CI18", "CK7:CM8",
+        "CO7:CQ11", "CS7:CU12", "CW7:CY41", "DB7:DD10", "DG7:DI10", "DL7:DN18", "DQ7:DS12", "DU7:DW20", "DY7:EA18", "EC7:EE10", "EG7:EI14", "EK7:EM21",
+        "EO7:EQ51", "ES7:EU12", "EW7:EY12", "FA7:FC51", "FE7:FG11"
+      ],
+      "CINTA": ["A7:C22"],
+      "RINDU": ["E7:G38"],
+      "AVIS": ["I7:K18"],
+      "SALMA": ["M7:O23"],
+      "RIZKI": ["Q7:S17"],
+      "CANTIK": ["U7:W14"],
+      "HEPI": ["Y7:AA17"],
+      "HC": ["AC7:AE12"],
+      "FADHIL": ["AG7:AI25"],
+      "GRIYA": ["AK7:AM31"],
+      "ZIGNA": ["AO7:AQ21"],
+      "SAYANG": ["AS7:AU22"],
+      "KASIH": ["AW7:AY30"],
+      "KASIH SERI 2": ["BA7:BC32"],
+      "KANGEN": ["BE7:BG30"],
+      "KHITAN": ["BI7:BK12"],
+      "BUKU OLSHOP": ["BM7:BO15"],
+      "BUKU TAMU": ["BQ7:BS14"],
+      "NOTA OLSHOP": ["BU7:BW19"],
+      "BUKU EDUKASI": ["BY7:CA22"],
+      "BAHAN": ["CG7:CI18"],
+      "STIKER QC PASS HOLOGRAM": ["CK7:CM8"],
+      "PARFUM": ["CO7:CQ11"],
+      "AMPLOP": ["CS7:CU12"],
+      "PAPERBAG": ["CW7:CY41"],
+      "GBC": ["DB7:DD10"],
+      "PBM": ["DG7:DI10"],
+      "BRIDESMAID BBR": ["DL7:DN18"],
+      "KALENDER": ["DQ7:DS12"],
+      "PRODUK AKRILIK": ["DU7:DW20"],
+      "REPLIKA MAHAR AKRILIK": ["DY7:EA18"],
+      "TOPPER CAKE AKRILIK": ["EC7:EE10"],
+      "GANCI AKRILIK": ["EG7:EI14"],
+      "WORKSHEET": ["EK7:EM21"],
+      "STIKER OTOMOTIF": ["EO7:EQ51"],
+      "PLASTIK POLYMAILER": ["ES7:EU12"],
+      "PLASTIK ZIPLOK": ["EW7:EY12"],
+      "PLASTIK HD PLONG": ["FA7:FC51"],
+      "KATALOG": ["FE7:FG11"]
+    }
+  }
+}
